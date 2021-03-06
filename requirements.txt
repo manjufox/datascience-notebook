@@ -1,0 +1,12 @@
+torch 
+torchvision 
+torchaudio 
+pyro-ppl 
+torchtext
+matplotlib 
+PyPokerEngine 
+opencv-python 
+tensorflow_probability 
+lightweight-gan
+fastprogress 
+japanize-matplotlib

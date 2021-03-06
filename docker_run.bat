@@ -1,0 +1,1 @@
+docker run --restart always --gpus all -d -P -e GRANT_SUDO=yes --user root -v D:/Programs:/home/jovyan/work jupyter

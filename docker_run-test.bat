@@ -1,0 +1,2 @@
+@REM docker run --restart always --gpus all -p 2222:8888 -v R:/Programs:/home/jovyan/work jupyter
+docker run --gpus all --rm -d -P -e GRANT_SUDO=yes --user root -v D:/Programs:/home/jovyan/work jupyter
